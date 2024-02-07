@@ -1,16 +1,16 @@
 FROM node:7.7-alpine
 
-# install deps
+# Install dependencies
 ADD package.json /tmp/package.json
 RUN cd /tmp && npm install
 
-# Copy deps
-RUN mkdir -p /opt/demojs-app && cp -a /tmp/node_modules /opt/demojs
+# Copy dependencies
+RUN mkdir -p /opt/hellojs && cp -a /tmp/node_modules /opt/hellojs
 
 # Setup workdir
-WORKDIR /opt/demojs-app
-COPY . /opt/demojs-app
+WORKDIR /opt/hellojs
+COPY . /opt/hellojs
 
-# run
+# Run
 EXPOSE 3000
-CMD ["npm", "start"]
+CMD ["/usr/local/bin/npm", "start"]
