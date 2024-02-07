@@ -5,11 +5,11 @@ ADD package.json /tmp/package.json
 RUN cd /tmp && npm install
 
 # Copy dependencies
-RUN mkdir -p /opt/hellojs-app && cp -a /tmp/node_modules /opt/hellojs
+RUN mkdir -p /opt/demojs-app && cp -a /tmp/node_modules /opt/demojs
 
 # Setup workdir
-WORKDIR /opt/hellojs-app
-COPY . /opt/hellojs-app
+WORKDIR /opt/demojs-app
+COPY . /opt/demojs-app
 
 # Run
 EXPOSE 3000
