@@ -1,5 +1,5 @@
 {
-  "name": "hellojs",
+  "name": "src",
   "version": "1.0.0",
   "description": "Hello world app with express 4",
   "main": "index.js",
