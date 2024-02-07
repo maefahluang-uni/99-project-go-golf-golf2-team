@@ -5,11 +5,11 @@ ADD package.json /tmp/package.json
 RUN cd /tmp && npm install
 
 # Copy dependencies
-RUN mkdir -p /opt/src && cp -a /tmp/node_modules /opt/src
+RUN mkdir -p /opt/demo-app && cp -a /tmp/node_modules /opt/demo
 
 # Setup workdir
-WORKDIR /opt/src
-COPY . /opt/src
+WORKDIR /opt/demo-app
+COPY . /opt/demo-app
 
 # Run
 EXPOSE 3000
