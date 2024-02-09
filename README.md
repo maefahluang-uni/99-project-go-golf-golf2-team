@@ -1,5 +1,5 @@
 # Project -title
-(GI) Distribution Platform for selling, buying Geograpghical Indications (GI)
+(GI) Distribution Platform for selling, buying Geograpghical Indications (GI) products
 ## Members
 6431503022 Daranphop Samutkao
 6431503027 Tanatorn Temsirimongkol 
