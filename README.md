@@ -3,12 +3,13 @@
 for selling, buying Geograpghical Indications (GI) products
 
 ## Features
-- Authentication system
+- Authentication system 
 - User profile
 - Order management
+- Search filtering
 - Product reservations
 - Payment processing
-- Product review
+- Product reviews / ratings
 ## Members
 - 6431503022 Daranphop Samutkao
 - 6431503027 Tanatorn Temsirimongkol 
