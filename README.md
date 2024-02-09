@@ -1,5 +1,4 @@
 # Project -title
-explain your project here
 (GI) Distribution Platform for selling, buying Geograpghical Indications (GI)
 ## Members
 6431503022 Daranphop Samutkao
