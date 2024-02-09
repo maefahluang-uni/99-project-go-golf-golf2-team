@@ -7,10 +7,10 @@
 - Buying & selling system
 - Product reservations
 ## Members
-6431503022 Daranphop Samutkao
-6431503027 Tanatorn Temsirimongkol 
-6431503040 Ponthakorn Suriyachantrathong
-6431503029 Thanapat Kanjina
+- 6431503022 Daranphop Samutkao
+- 6431503027 Tanatorn Temsirimongkol 
+- 6431503040 Ponthakorn Suriyachantrathong
+- 6431503029 Thanapat Kanjina
 
 
 ## Instruction
