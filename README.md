@@ -1,6 +1,7 @@
 # Project -title
 (GI) Distribution Platform 
 for selling, buying Geograpghical Indications (GI) products
+(focusing on CRM system)
 
 ## Features
 - Authentication system (Gold/Team)
