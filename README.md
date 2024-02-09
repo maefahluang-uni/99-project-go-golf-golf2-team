@@ -1,7 +1,12 @@
 # Project -title
 explain your project here
+(GI) Distribution Platform for selling, buying Geograpghical Indications (GI)
 ## Members
-list out your member ID and name.
+6431503022 Daranphop Samutkao
+6431503027 Tanatorn Temsirimongkol 
+6431503040 Ponthakorn Suriyachantrathong
+6431503029 Thanapat Kanjina
+
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
