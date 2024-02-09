@@ -5,15 +5,15 @@ for selling, buying Geograpghical Indications (GI) products
 ## Features
 - Authentication system (Gold/Team)
     - Verifying user before accessing to the system
-- User profile (Team)
+- User profile (Team,Golf)
     - Features for customers to create accounts and manage their profiles.
 - Order management (Gold)
     - Ability to view track and manage the order
 - Search filtering (Team)
     - Advanced search functionality and filtering options to help users find products quickly and easily.
-- Product reservations
+- Product reservations (Team,Golf)
     - User can create a product reservations for the future.
-- Payment processing
+- Payment processing (Team,Golf,Gold)
     - Ability to choose payment method and secure transactions.
 - Product reviews / ratings
     - User ability to give reviews or ratings to the following products.
