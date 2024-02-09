@@ -1,5 +1,6 @@
 # Project -title
-(GI) Distribution Platform for selling, buying Geograpghical Indications (GI) products
+(GI) Distribution Platform 
+for selling, buying Geograpghical Indications (GI) products
 
 ## Features
 - Authentication system
